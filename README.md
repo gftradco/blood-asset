@@ -3,6 +3,7 @@
     <img src="images/logo.svg" alt="Logo" width='300px' height='auto'/>
 </div>
 <hr />
+This project is a fork of Nano (The fast, free and green crypto currency.)
 
 [![Live Artifacts](https://github.com/nanocurrency/nano-node/workflows/Live/badge.svg)](https://github.com/nanocurrency/nano-node/actions?query=workflow%3ALive)
 [![Beta Artifacts](https://github.com/nanocurrency/nano-node/workflows/Beta/badge.svg)](https://github.com/nanocurrency/nano-node/actions?query=workflow%3ABeta)
